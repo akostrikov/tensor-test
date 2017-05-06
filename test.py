@@ -43,3 +43,14 @@ array([ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  1.,  0.,  0.])
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 ]
+import numpy as np
+array = np.zeros((8,8))
+
+/Users/akostrikov/anaconda/envs/tensorflow/bin/jupyter-notebook
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html
+https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/
+https://www.tensorflow.org/versions/r0.11/tutorials/tflearn/
+https://www.tensorflow.org/versions/r0.11/get_started/os_setup#pip_installation
+https://www.tensorflow.org/versions/r0.11/get_started/os_setup
+https://www.tensorflow.org/versions/r0.11/tutorials/mnist/pros/
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_softmax.py
